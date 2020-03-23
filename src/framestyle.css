@@ -1,0 +1,14 @@
+.dataBox {
+    position: relative;
+    display:grid;
+    display: -moz-grid;
+    display: -moz-inline-grid;
+    grid-template-columns: 100px 100px;
+    border: solid;
+    background-color: blue;
+
+
+ 
+
+
+}
